@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Raleway:wght@500&family=Roboto:wght@300;500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+.container-principal{
+    background-color: black;
+    color: white;
+}
+
+i{
+    width: 50px;
+    
+
+}
+.iconos{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.iconos2{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    
+
+}
+.container{
+
+}
+
+.col-sm{
+    padding:20px;
+}
+
+.card img {
+    width: 100%;
+    height: 250px;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.col-sm-6{
+    padding-top: 5rem;
+}
+
+.habilidades{
+    display: flex;
+    justify-content: center;
+
+}
